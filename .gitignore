@@ -1,0 +1,22 @@
+# Virtual environments
+venv/
+myenv/
+env/
+.venv/
+
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Test/output files
+*.csv
+*.json
+
+# OS files
+.DS_Store
+Thumbs.db
