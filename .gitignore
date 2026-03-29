@@ -13,9 +13,12 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Test/output files
+# Output files
 *.csv
 *.json
+
+# Notes (local only)
+notes/
 
 # OS files
 .DS_Store

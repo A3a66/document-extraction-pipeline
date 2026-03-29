@@ -1,0 +1,19 @@
+Meeting Notes - Q1 Planning
+Date: 14 February 2026
+Attendees: Sarah Mitchell, James Okafor, Priya Nair
+Location: Conference Room B
+
+We discussed the Q1 product roadmap. Sarah confirmed the mobile app redesign is on track for March release. James raised a concern about the API rate limits affecting the data pipeline — needs investigation by end of week.
+
+Decisions made:
+- Freeze new feature requests until March 15
+- Allocate 2 additional engineers to the backend team
+- Move sprint review to Thursdays going forward
+
+Action items:
+- James to audit API usage and report back by 21 Feb
+- Priya to update the project tracker with new timelines
+- Sarah to send revised wireframes to the design team by 17 Feb
+
+Budget: $45,000 approved for Q1 infrastructure upgrades
+Priority: High

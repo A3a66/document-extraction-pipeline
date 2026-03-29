@@ -1,5 +1,5 @@
 """
-batch_summarize.py — send thousands of files to the /summarize endpoint in batches.
+batch_summarize.py — send thousands of files to the /extract endpoint in batches.
 
 Usage:
     python src/batch_summarize.py --input-dir ./docs --output results.csv
